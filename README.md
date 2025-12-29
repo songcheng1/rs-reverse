@@ -311,11 +311,3 @@ Object.assign(getBasearr, {
 3. devUrl: 开发该适配器的目标网站。
 
 **注意：basearr的适配需要开发人员自己逆，不过内容大差不差（适配一个网站大概用时1天）**
-
-## 4. 技术交流
-
-加作者微信进技术交流群: `howduudu_tech`(备注rs-reverse)
-
-订阅号不定时发表版本动态及技术文章：码功
-
-<img src="https://github.com/pysunday/sdenv/raw/main/static/qrcode.png" alt="订阅号：码功" width="320">
